@@ -1,0 +1,11 @@
+name: intern_gan
+dependencies:
+- python=3.6
+- pip
+- pip:
+  - numpy
+  - pandas
+  - jupyter
+  - tensorflow
+  - matplotlib
+  - keras
