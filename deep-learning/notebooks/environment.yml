@@ -1,11 +1,11 @@
-name: intern_gan
+name: deep-learning
 dependencies:
 - python=3.6
 - pip
 - pip:
+  - jupyter
+  - keras
+  - matplotlib
   - numpy
   - pandas
-  - jupyter
   - tensorflow
-  - matplotlib
-  - keras
