@@ -1,0 +1,11 @@
+name: deep-learning
+dependencies:
+- python=3.6
+- pip
+- pip:
+  - jupyter
+  - keras
+  - matplotlib
+  - numpy
+  - pandas
+  - tensorflow

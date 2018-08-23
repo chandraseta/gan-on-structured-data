@@ -11,9 +11,9 @@
     ```
     - In Windows, double-click the downloaded `.exe` file
 
-3. Create a new environment in Miniconda using the provided `environment.yml` file using the following command:
+3. Create a new environment in Miniconda using the provided `deep-learning.yml` file using the following command:
     ```
-    conda env create -f environment.yml
+    conda env create -f deep-learning.yml
     ```
     This will create a new environment named `deep-learning`
     
